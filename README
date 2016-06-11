@@ -1,0 +1,33 @@
+idan0610
+305681132
+Idan Refaeli
+
+I discussed the exercise with: Eyel Cohen.
+
+=============================
+=  README for ex2  =
+=============================
+
+usage: python3.4 ex2a.py
+       python3.4 ex2b.py
+
+==================
+=  Description:  =
+==================
+1. ex2a.py - Calculate the area and perimeter of chosen shape
+2. ex2b.py - A simple calculator for arithmetic operations
+3. README.txt - This file
+
+=============================
+=  List of submitted files: =
+=============================
+
+README		This file
+ex2a.py
+ex2b.py
+
+======================
+=  Special Comments  =
+======================
+
+None
